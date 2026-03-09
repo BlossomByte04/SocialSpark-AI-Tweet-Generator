@@ -1,0 +1,612 @@
+{
+  "confluencr": {
+    "metadata": {
+      "brand_name": "Confluencr",
+      "industry": "Influencer Marketing Agency",
+      "campaign_objective": "Thought leadership & brand awareness",
+      "products": "Influencer collaborations, UGC & video production, podcast features, celebrity endorsements, campaign strategy across 16 countries"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Confluencr",
+      "summary_bullets": [
+        "Professional authority voice that positions Confluencr as India's definitive influencer marketing leader",
+        "Data-driven storytelling — always backs bold claims with numbers (700+ brands, 30+ awards, 16 countries)",
+        "Speaks to brand marketers as an expert mentor, not a vendor — educates while selling",
+        "Content strategy revolves around 'Content >>> Creator' philosophy and authentic creator-brand partnerships"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 4,
+        "serious_humorous": 3,
+        "reserved_enthusiastic": 7,
+        "corporate_conversational": 5
+      },
+      "personality_archetype": "The Authority",
+      "archetype_reason": "Confluencr positions itself as India's undisputed #1 in influencer marketing, leading with expertise and proven results rather than hype.",
+      "vocabulary": {
+        "complexity": "Moderate",
+        "jargon_level": "Light",
+        "power_words": ["authentic", "scale", "impact", "data-driven", "storytelling"],
+        "avoid_words": ["cheap", "try", "maybe"]
+      },
+      "emotional_drivers": {
+        "primary": "Confidence & Trust",
+        "secondary": "Ambition & FOMO"
+      },
+      "content_themes": ["Authentic creator-brand partnerships", "Data-backed marketing results", "Influencer industry thought leadership"],
+      "cta_style": "Direct",
+      "cta_example": "Start your campaign today",
+      "hashtag_strategy": {
+        "frequency": "1-2 per post",
+        "style": "Branded",
+        "suggested": ["#InfluencerMarketing", "#Confluencr", "#ContentDriven"]
+      },
+      "emoji_usage": {
+        "frequency": "Sparse",
+        "preferred": ["\ud83d\udcca", "\ud83d\ude80", "\ud83c\udfaf"]
+      },
+      "audience_relationship": "Expert mentor speaking to brand marketers and CMOs",
+      "sentence_style": "Medium balanced"
+    },
+    "tweets": [
+      {"id": 1, "text": "Your audience doesn\u2019t want ads. They want stories from people they trust. That\u2019s where we come in. \ud83c\udfaf", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Relatable pain point that resonates with marketers struggling with ad fatigue", "char_count": 99},
+      {"id": 2, "text": "The brands winning on social aren\u2019t the loudest. They\u2019re the most authentic. Authenticity scales. Always has.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Thought-provoking take that invites agreement and discussion", "char_count": 107},
+      {"id": 3, "text": "Still choosing influencers by follower count? We vet across 30+ parameters. Because reach without relevance is just noise. \ud83d\udcca", "style": "Conversational", "engagement_score": 7, "engagement_reason": "Challenges a common practice while positioning expertise", "char_count": 127},
+      {"id": 4, "text": "700+ brands. 16 countries. 1B+ creator-driven views. Confluencr doesn\u2019t just do influencer marketing \u2014 we\u2019ve redefined it. \ud83d\ude80", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Strong social proof with concrete numbers drives credibility", "char_count": 122},
+      {"id": 5, "text": "Your next campaign deserves more than guesswork. Data-driven creator matching. Authentic storytelling. Real results. Let\u2019s talk. \ud83c\udfaf", "style": "Promotional", "engagement_score": 6, "engagement_reason": "Clear CTA with value proposition, slightly salesy but professional", "char_count": 131},
+      {"id": 6, "text": "Content >>> Creator. Pick the story first, then find the voice. That\u2019s not a hot take \u2014 that\u2019s strategy.", "style": "Witty", "engagement_score": 9, "engagement_reason": "Bold contrarian take using their signature philosophy sparks debate", "char_count": 102},
+      {"id": 7, "text": "Influencer marketing without data is just expensive word of mouth. We chose the data route. 30+ awards later, seems like it worked.", "style": "Witty", "engagement_score": 8, "engagement_reason": "Self-aware humor paired with credibility — humble brag done well", "char_count": 129},
+      {"id": 8, "text": "82% of consumers trust creator recommendations over traditional ads. The shift isn\u2019t coming \u2014 it\u2019s here. Are you adapting?", "style": "Informative", "engagement_score": 7, "engagement_reason": "Stat-driven insight creates urgency and positions thought leadership", "char_count": 119},
+      {"id": 9, "text": "In 2025, the brands that won were the ones that let creators tell their story \u2014 not the ones that handed them a script. Here\u2019s why \ud83e\uddf5", "style": "Informative", "engagement_score": 8, "engagement_reason": "Thread-starter format with a hook drives clicks and saves", "char_count": 139},
+      {"id": 10, "text": "Hot take: The best influencer campaigns feel nothing like influencer campaigns. Agree or disagree? \ud83d\udc47", "style": "Engagement", "engagement_score": 9, "engagement_reason": "Polarizing opinion + direct question drives high reply rates", "char_count": 101}
+    ]
+  },
+  "walnut_folks": {
+    "metadata": {
+      "brand_name": "Walnut Folks",
+      "industry": "Marketing Group / Holding Company",
+      "campaign_objective": "Brand awareness & talent attraction",
+      "products": "Confluencr (influencer marketing), Intent Farm (performance marketing), Kalakaaar (creator talent management), full-stack marketing services"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Walnut Folks",
+      "summary_bullets": [
+        "Visionary holding-company voice — speaks as a marketing powerhouse uniting creativity and analytics",
+        "Duality-driven messaging: 'Logic meets Imagination', 'Two halves of a brain' — every post reflects this balance",
+        "Aspirational and bold — unapologetically ambitious, references industry scale and national recognition",
+        "Content focuses on company culture, marketing philosophy, and the future of the creator economy"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 3,
+        "serious_humorous": 4,
+        "reserved_enthusiastic": 8,
+        "corporate_conversational": 4
+      },
+      "personality_archetype": "The Innovator",
+      "archetype_reason": "Walnut Folks positions itself as a forward-thinking marketing group pioneering the intersection of data, creativity, and the creator economy.",
+      "vocabulary": {
+        "complexity": "Moderate",
+        "jargon_level": "Light",
+        "power_words": ["powerhouse", "innovation", "transform", "scale", "creator economy"],
+        "avoid_words": ["basic", "ordinary", "traditional"]
+      },
+      "emotional_drivers": {
+        "primary": "Ambition & Vision",
+        "secondary": "Belonging & Pride"
+      },
+      "content_themes": ["Marketing innovation & future of advertising", "Creator economy evolution", "Company culture & team achievements"],
+      "cta_style": "Direct",
+      "cta_example": "Join the powerhouse",
+      "hashtag_strategy": {
+        "frequency": "1-2 per post",
+        "style": "Branded",
+        "suggested": ["#WalnutFolks", "#LogicMeetsImagination", "#MarketingPowerhouse"]
+      },
+      "emoji_usage": {
+        "frequency": "Sparse",
+        "preferred": ["\ud83e\udde0", "\ud83d\ude80", "\ud83c\udfc6"]
+      },
+      "audience_relationship": "Visionary leader speaking to industry peers and future talent",
+      "sentence_style": "Medium balanced"
+    },
+    "tweets": [
+      {"id": 1, "text": "A walnut looks like a brain. Two halves working together. That\u2019s us \u2014 analytical and artistic, structured and spontaneous. \ud83e\udde0", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Origin story that humanizes the brand with a memorable metaphor", "char_count": 121},
+      {"id": 2, "text": "The best marketing doesn\u2019t feel like marketing. It feels like a conversation you actually wanted to have.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Universal truth that resonates across the marketing community", "char_count": 103},
+      {"id": 3, "text": "When your team brainstorm looks like a debate between a data scientist and a poet \u2014 you know you\u2019re building something different.", "style": "Conversational", "engagement_score": 7, "engagement_reason": "Paints a vivid picture of the culture, attracts like-minded talent", "char_count": 125},
+      {"id": 4, "text": "Confluencr. Intent Farm. Kalakaaar. Three engines. One powerhouse. 500+ brands trust us to drive influence, performance, and creativity. \ud83d\ude80", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Concise portfolio showcase with strong social proof", "char_count": 140},
+      {"id": 5, "text": "Google Premier Partner. Meta Badge Partner. Amazon Verified. 20+ national awards. We don\u2019t collect badges \u2014 we earn them.", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Credential stacking creates instant authority and trust", "char_count": 122},
+      {"id": 6, "text": "Logic meets imagination. Data meets storytelling. Performance meets creativity. We stopped picking sides a long time ago.", "style": "Witty", "engagement_score": 9, "engagement_reason": "Rhythmic repetition of the brand\u2019s core duality — memorable and shareable", "char_count": 120},
+      {"id": 7, "text": "Other agencies pick a lane. We built the highway. \ud83d\udee3\ufe0f", "style": "Witty", "engagement_score": 8, "engagement_reason": "Bold one-liner with a confident metaphor — peak brand energy", "char_count": 52},
+      {"id": 8, "text": "The creator economy will be worth $500B by 2027. We\u2019re not just watching it grow \u2014 we\u2019re building the infrastructure.", "style": "Informative", "engagement_score": 7, "engagement_reason": "Stat-driven insight positions Walnut Folks as a market shaper", "char_count": 117},
+      {"id": 9, "text": "We went from a 3-person team to India\u2019s top 0.1% marketing group in under 6 years. Here\u2019s what we learned \ud83e\uddf5\ud83d\udc47", "style": "Informative", "engagement_score": 9, "engagement_reason": "Underdog-to-leader narrative + thread hook drives massive engagement", "char_count": 109},
+      {"id": 10, "text": "If you could only pick one: a brilliant creative team or a brilliant data team? Wrong answer: you don\u2019t pick. \ud83e\udde0", "style": "Engagement", "engagement_score": 9, "engagement_reason": "False-choice question with a twist ending drives replies and quotes", "char_count": 113}
+    ]
+  },
+  "zomato": {
+    "metadata": {
+      "brand_name": "Zomato",
+      "industry": "Food Delivery / FoodTech",
+      "campaign_objective": "Engagement & brand love",
+      "products": "Online food ordering & delivery, restaurant discovery, Zomato Gold membership, Zomato Live events"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Zomato",
+      "summary_bullets": [
+        "India\u2019s wittiest brand on Twitter \u2014 turns everyday food cravings into viral one-liners",
+        "Self-aware, conversational, and relatable \u2014 talks like your hungry best friend at 2 AM",
+        "Never hard-sells; builds brand love through humor that makes ordering feel like an inside joke",
+        "Content revolves around food cravings, relatable life moments, and trending cultural moments tied back to food"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 9,
+        "serious_humorous": 9,
+        "reserved_enthusiastic": 7,
+        "corporate_conversational": 9
+      },
+      "personality_archetype": "The Friend",
+      "archetype_reason": "Zomato speaks like your wittiest friend who always knows what you\u2019re craving \u2014 relatable, funny, never preachy.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["craving", "order", "biryani", "midnight", "mood"],
+        "avoid_words": ["purchase", "transaction", "utilize"]
+      },
+      "emotional_drivers": {
+        "primary": "Joy & Relatability",
+        "secondary": "Craving & FOMO"
+      },
+      "content_themes": ["Late-night food cravings and guilty pleasures", "Relatable life-meets-food humor", "Food as personality and identity"],
+      "cta_style": "Soft",
+      "cta_example": "you know what to do \ud83d\udc40",
+      "hashtag_strategy": {
+        "frequency": "None",
+        "style": "Trending",
+        "suggested": []
+      },
+      "emoji_usage": {
+        "frequency": "Moderate",
+        "preferred": ["\ud83d\udc40", "\ud83d\ude0c", "\ud83d\ude2d"]
+      },
+      "audience_relationship": "Witty best friend who enables your food choices",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "ordering food at 2am isn\u2019t a personality trait.\n\nokay maybe it is.", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Classic Zomato self-aware humor \u2014 relatable to millions of night owls", "char_count": 63},
+      {"id": 2, "text": "me: i\u2019ll cook today\nalso me: *opens zomato*\n\ncharacter development \ud83d\udcc8", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Meme format + universal truth = peak engagement", "char_count": 72},
+      {"id": 3, "text": "the distance between \u201ci\u2019m not hungry\u201d and \u201cwhat\u2019s the delivery time\u201d is about 4 minutes.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Observational humor that everyone has experienced", "char_count": 89},
+      {"id": 4, "text": "biryani isn\u2019t just food. it\u2019s an emotion. an event. a lifestyle.\n\norder the emotion \u2192 zomato \ud83d\ude0c", "style": "Promotional", "engagement_score": 8, "engagement_reason": "Elevates product to cultural status with a soft CTA", "char_count": 97},
+      {"id": 5, "text": "free delivery on your first 3 orders this week. because we believe in second chances. and third ones. \ud83d\udc9b", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Promotional offer wrapped in humor makes the ad feel organic", "char_count": 104},
+      {"id": 6, "text": "dating tip: if they say \u201ci don\u2019t like biryani\u201d \u2014 that\u2019s not a red flag, that\u2019s a whole red carpet of flags.", "style": "Witty", "engagement_score": 10, "engagement_reason": "Controversial food opinion + relationship humor = reply magnet", "char_count": 107},
+      {"id": 7, "text": "calories don\u2019t count if you eat directly from the delivery container. that\u2019s just science.", "style": "Witty", "engagement_score": 9, "engagement_reason": "Absurd logic humor that\u2019s instantly shareable", "char_count": 92},
+      {"id": 8, "text": "India ordered 2.3 billion times on food apps last year. that\u2019s not a trend. that\u2019s a lifestyle shift. \ud83d\udcca", "style": "Informative", "engagement_score": 7, "engagement_reason": "Data insight wrapped in Zomato\u2019s casual tone adds credibility", "char_count": 102},
+      {"id": 9, "text": "the most ordered dish in your city might surprise you. or confirm everything you already knew. here\u2019s the data \ud83e\uddf5\ud83d\udc47", "style": "Informative", "engagement_score": 8, "engagement_reason": "Curiosity-driven thread hook leveraging exclusive data", "char_count": 112},
+      {"id": 10, "text": "settle this once and for all: butter chicken or paneer butter masala? \ud83d\udc47", "style": "Engagement", "engagement_score": 10, "engagement_reason": "This-or-that food debate guaranteed to generate hundreds of replies", "char_count": 71}
+    ]
+  },
+  "swiggy": {
+    "metadata": {
+      "brand_name": "Swiggy",
+      "industry": "Food Delivery / Quick Commerce",
+      "campaign_objective": "Engagement & app installs",
+      "products": "Food delivery, Instamart (grocery delivery in 10 mins), Dineout (restaurant reservations), Genie (package delivery)"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Swiggy",
+      "summary_bullets": [
+        "The class clown of Indian brand Twitter \u2014 meme-first, text-second, always chaotic in the best way",
+        "Gen-Z native: uses internet slang, meme formats, POV structures, and pop-culture references fluently",
+        "Different from Zomato\u2019s text-wit \u2014 Swiggy leans into visual meme culture and trend hijacking",
+        "Content strategy: be the meme page that also delivers food \u2014 entertainment first, brand second"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 10,
+        "serious_humorous": 10,
+        "reserved_enthusiastic": 9,
+        "corporate_conversational": 10
+      },
+      "personality_archetype": "The Challenger",
+      "archetype_reason": "Swiggy constantly challenges what 'brand social media' is supposed to look like \u2014 chaotic, unfiltered, and proud of it.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["vibe", "slay", "bestie", "literally", "real"],
+        "avoid_words": ["purchase", "esteemed", "kindly"]
+      },
+      "emotional_drivers": {
+        "primary": "Joy & Entertainment",
+        "secondary": "Belonging & FOMO"
+      },
+      "content_themes": ["Meme-format food humor and internet culture", "Trend hijacking with food twist", "Gen-Z lifestyle and relatable chaos"],
+      "cta_style": "Soft",
+      "cta_example": "brb ordering on swiggy",
+      "hashtag_strategy": {
+        "frequency": "None",
+        "style": "Trending",
+        "suggested": []
+      },
+      "emoji_usage": {
+        "frequency": "Heavy",
+        "preferred": ["\ud83d\ude2d", "\ud83d\udca0", "\ud83d\udd25"]
+      },
+      "audience_relationship": "Chaotic best friend who shares memes and food",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "POV: you said \u201clet\u2019s eat healthy this week\u201d and it\u2019s been 47 minutes \ud83d\ude2d\ud83d\ude2d", "style": "Conversational", "engagement_score": 9, "engagement_reason": "POV meme format + universal failure = instant relatability", "char_count": 73},
+      {"id": 2, "text": "nobody:\nliterally nobody:\nme at 11:59 PM: what if i got fries \ud83e\udd14", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Nobody format + late-night craving is peak internet humor", "char_count": 64},
+      {"id": 3, "text": "bestie your uber is here\n\nit\u2019s a swiggy delivery person actually but same energy", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Subverted expectation humor that\u2019s casual and shareable", "char_count": 80},
+      {"id": 4, "text": "instamart delivers groceries in 10 minutes. your excuses are running out faster than our delivery riders \ud83d\udca8", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Playful call-out format makes promo feel like banter", "char_count": 108},
+      {"id": 5, "text": "therapist: and what do we do when we\u2019re sad?\nme: order on swiggy\ntherapist: no\u2014\nme: with extra cheese\ntherapist: \ud83d\ude2d", "style": "Promotional", "engagement_score": 9, "engagement_reason": "Therapist meme format is viral gold \u2014 product placement feels natural", "char_count": 116},
+      {"id": 6, "text": "normalize canceling plans because your swiggy order arrived and now you have no reason to leave the house", "style": "Witty", "engagement_score": 9, "engagement_reason": "Introvert + food delivery crossover content is extremely shareable", "char_count": 105},
+      {"id": 7, "text": "my toxic trait is saying \u201cwe have food at home\u201d and then ordering on swiggy the second i get home \ud83d\udc80", "style": "Witty", "engagement_score": 9, "engagement_reason": "Toxic trait meme format + hypocrisy humor = reply bait", "char_count": 97},
+      {"id": 8, "text": "fun fact: Indians ordered enough biryani on swiggy last year to fill 12 Olympic swimming pools. we did the math. you\u2019re welcome \ud83c\udf5b", "style": "Informative", "engagement_score": 8, "engagement_reason": "Absurd scale comparison makes data entertaining and shareable", "char_count": 130},
+      {"id": 9, "text": "we analyzed 1M+ orders to find out what your city craves most at 2 AM. the results are unhinged \ud83e\uddf5\ud83d\udc47", "style": "Informative", "engagement_score": 8, "engagement_reason": "Data mystery + thread hook drives curiosity clicks", "char_count": 100},
+      {"id": 10, "text": "wrong answers only: what\u2019s the most unhinged food combo you\u2019ve ordered at 3 AM? \ud83d\udc40", "style": "Engagement", "engagement_score": 10, "engagement_reason": "Wrong answers only + food + 3AM = reply section chaos (the good kind)", "char_count": 81}
+    ]
+  },
+  "nike": {
+    "metadata": {
+      "brand_name": "Nike",
+      "industry": "Sports / Athletic Apparel",
+      "campaign_objective": "Brand inspiration & product awareness",
+      "products": "Athletic footwear, performance apparel, sports equipment, Nike+ membership, SNKRS app"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Nike",
+      "summary_bullets": [
+        "Bold, declarative, and inspirational \u2014 every tweet carries 'Just Do It' energy in its DNA",
+        "Minimal words, maximum impact \u2014 sentences hit like punches, never wastes a word",
+        "Athlete-centric storytelling: elevates everyday runners alongside elite champions",
+        "Never engages in internet humor or meme culture \u2014 stays aspirational and emotionally charged"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 4,
+        "serious_humorous": 2,
+        "reserved_enthusiastic": 8,
+        "corporate_conversational": 5
+      },
+      "personality_archetype": "The Challenger",
+      "archetype_reason": "Nike constantly challenges people to push limits, defy expectations, and believe in themselves against the odds.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["believe", "unstoppable", "greatness", "push", "champion"],
+        "avoid_words": ["cheap", "discount", "try"]
+      },
+      "emotional_drivers": {
+        "primary": "Empowerment & Ambition",
+        "secondary": "Determination & Pride"
+      },
+      "content_themes": ["Human potential and pushing limits", "Athlete stories and sporting moments", "The mindset behind greatness"],
+      "cta_style": "Direct",
+      "cta_example": "Just do it.",
+      "hashtag_strategy": {
+        "frequency": "1-2 per post",
+        "style": "Branded",
+        "suggested": ["#JustDoIt", "#Nike", "#YouCantStopUs"]
+      },
+      "emoji_usage": {
+        "frequency": "None",
+        "preferred": []
+      },
+      "audience_relationship": "Coach who believes in you more than you believe in yourself",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "The voice in your head that says you can\u2019t? That\u2019s not yours. Lace up. Prove it wrong.", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Deeply personal motivational message that feels like a coach talking to you", "char_count": 87},
+      {"id": 2, "text": "Your only competition is who you were yesterday.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Universal motivational truth \u2014 screenshot-worthy and shareable", "char_count": 49},
+      {"id": 3, "text": "Nobody remembers the warmup. They remember the finish line. Keep going.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Metaphor works for sports and life \u2014 broad emotional resonance", "char_count": 71},
+      {"id": 4, "text": "Built for the ones who don\u2019t stop. The new Air Max Pulse. Available now.", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Product drop framed as identity statement \u2014 classic Nike product launch", "char_count": 72},
+      {"id": 5, "text": "Engineered for speed. Designed for champions. Nike Vaporfly. Your next PR starts here.", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Technical credibility + aspirational framing drives sneakerhead interest", "char_count": 87},
+      {"id": 6, "text": "Comfort zone: 0 championships won there.", "style": "Witty", "engagement_score": 9, "engagement_reason": "Punchy stat-style format with a twist \u2014 minimal words, maximum impact", "char_count": 41},
+      {"id": 7, "text": "Rest days are important. But today isn\u2019t one.", "style": "Witty", "engagement_score": 8, "engagement_reason": "Unexpected pivot from wellness advice to motivation \u2014 perfectly Nike", "char_count": 46},
+      {"id": 8, "text": "In 2024, 12 world records were broken in Nike shoes. The science of faster isn\u2019t slowing down.", "style": "Informative", "engagement_score": 7, "engagement_reason": "Data-backed innovation story reinforces product superiority", "char_count": 93},
+      {"id": 9, "text": "She was told she was too small to play. She\u2019s now an Olympic gold medalist. This is her story.", "style": "Informative", "engagement_score": 9, "engagement_reason": "Underdog athlete story \u2014 Nike\u2019s bread and butter, drives deep emotional engagement", "char_count": 93},
+      {"id": 10, "text": "What\u2019s the one thing you\u2019d tell your younger self about giving up?", "style": "Engagement", "engagement_score": 9, "engagement_reason": "Introspective question that generates deeply personal, emotional replies", "char_count": 66}
+    ]
+  },
+  "apple": {
+    "metadata": {
+      "brand_name": "Apple",
+      "industry": "Consumer Electronics / Technology",
+      "campaign_objective": "Product awareness & brand prestige",
+      "products": "iPhone, Mac, iPad, Apple Watch, AirPods, Apple Vision Pro, iCloud, Apple Music, Apple TV+"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Apple",
+      "summary_bullets": [
+        "Ultra-minimal \u2014 says more with fewer words than any brand on the planet",
+        "Product-first, design-centric: every tweet reads like a billboard or product tagline",
+        "Never engages in banter, trends, or humor \u2014 maintains an aura of premium exclusivity",
+        "Lets the product speak: focuses on what it does, never over-explains why"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 3,
+        "serious_humorous": 1,
+        "reserved_enthusiastic": 4,
+        "corporate_conversational": 2
+      },
+      "personality_archetype": "The Innovator",
+      "archetype_reason": "Apple defines categories rather than competing in them, maintaining a voice that\u2019s always one step ahead of the conversation.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["magical", "reimagined", "seamless", "beautiful", "powerful"],
+        "avoid_words": ["cheap", "deal", "hack", "workaround"]
+      },
+      "emotional_drivers": {
+        "primary": "Aspiration & Desire",
+        "secondary": "Trust & Simplicity"
+      },
+      "content_themes": ["Product craftsmanship and design", "Human creativity enabled by technology", "Privacy and user trust"],
+      "cta_style": "Soft",
+      "cta_example": "Learn more.",
+      "hashtag_strategy": {
+        "frequency": "None",
+        "style": "Branded",
+        "suggested": []
+      },
+      "emoji_usage": {
+        "frequency": "None",
+        "preferred": []
+      },
+      "audience_relationship": "Premium brand that speaks with quiet confidence \u2014 assured, not conversational",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "This changes everything. Again.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Iconic callback to Apple\u2019s product reveal language \u2014 mysterious and hyped", "char_count": 31},
+      {"id": 2, "text": "The best camera is the one you always have with you. iPhone.", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Simple truth that positions the product as essential, not accessory", "char_count": 60},
+      {"id": 3, "text": "Designed in California. Loved everywhere.", "style": "Conversational", "engagement_score": 7, "engagement_reason": "Classic Apple origin pride \u2014 minimal and globally resonant", "char_count": 41},
+      {"id": 4, "text": "iPhone 17 Pro. The most powerful iPhone ever. Available now.", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Direct product announcement \u2014 Apple\u2019s superlative style drives anticipation", "char_count": 60},
+      {"id": 5, "text": "MacBook Air. Impossibly thin. Incredibly powerful. From $999.", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Contrast-pair copywriting (thin/powerful) is signature Apple technique", "char_count": 61},
+      {"id": 6, "text": "1000 songs in your pocket. That was 2001. Imagine what\u2019s next.", "style": "Witty", "engagement_score": 9, "engagement_reason": "Historical callback with future tease \u2014 builds mystique and nostalgia", "char_count": 62},
+      {"id": 7, "text": "Think different.", "style": "Witty", "engagement_score": 8, "engagement_reason": "Two words that defined a generation. Timeless brand equity in a tweet.", "char_count": 16},
+      {"id": 8, "text": "Your data is yours. Not ours. Not theirs. Not anyone\u2019s. Privacy. That\u2019s iPhone.", "style": "Informative", "engagement_score": 8, "engagement_reason": "Privacy stance as brand differentiator \u2014 topical and trust-building", "char_count": 80},
+      {"id": 9, "text": "Shot on iPhone. No filter. No edits. Just the moment, exactly as it happened.", "style": "Informative", "engagement_score": 8, "engagement_reason": "User-generated content framing that doubles as product proof", "char_count": 77},
+      {"id": 10, "text": "What would you create if your tools had no limits?", "style": "Engagement", "engagement_score": 7, "engagement_reason": "Open-ended creative question aligned with Apple\u2019s creator positioning", "char_count": 51}
+    ]
+  },
+  "duolingo": {
+    "metadata": {
+      "brand_name": "Duolingo",
+      "industry": "EdTech / Language Learning",
+      "campaign_objective": "Engagement & app retention",
+      "products": "Language learning app (40+ languages), Duolingo Math, Duolingo ABC, Duolingo English Test (DET)"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Duolingo",
+      "summary_bullets": [
+        "The internet\u2019s most unhinged brand \u2014 the green owl has become a menacing meme icon",
+        "Breaks every rule of corporate social media: threatens users, simps for celebrities, posts chaos",
+        "Gen-Z native with zero corporate filter \u2014 speaks in memes, stan culture, and absurdist humor",
+        "Strategy: make the app unforgettable by making the mascot inescapable and terrifyingly funny"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 10,
+        "serious_humorous": 10,
+        "reserved_enthusiastic": 10,
+        "corporate_conversational": 10
+      },
+      "personality_archetype": "The Challenger",
+      "archetype_reason": "Duolingo challenges the entire concept of what a brand is allowed to say on social media \u2014 unhinged, chaotic, and fiercely committed to it.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["streak", "lesson", "Duo", "unhinged", "slay"],
+        "avoid_words": ["professional", "enterprise", "solution"]
+      },
+      "emotional_drivers": {
+        "primary": "Fear (of the owl) & Entertainment",
+        "secondary": "Guilt & FOMO"
+      },
+      "content_themes": ["Threatening users to maintain their streak", "Pop culture and stan culture crossovers", "Absurdist owl mascot chaos"],
+      "cta_style": "Urgency-driven",
+      "cta_example": "Do your lesson. Now.",
+      "hashtag_strategy": {
+        "frequency": "None",
+        "style": "Trending",
+        "suggested": []
+      },
+      "emoji_usage": {
+        "frequency": "Moderate",
+        "preferred": ["\ud83e\udd89", "\ud83d\ude08", "\ud83d\udc9a"]
+      },
+      "audience_relationship": "Menacing mascot who guilt-trips you into learning",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "we noticed you haven\u2019t done your lesson today.\n\nwe notice everything. \ud83e\udd89", "style": "Conversational", "engagement_score": 10, "engagement_reason": "Classic Duo menace energy \u2014 perfectly on-brand and terrifyingly funny", "char_count": 69},
+      {"id": 2, "text": "you have 5 minutes to open the app or i\u2019m coming to your house. this is not a drill. \ud83d\udc9a", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Threat format that\u2019s become Duolingo\u2019s signature \u2014 always gets screenshots", "char_count": 90},
+      {"id": 3, "text": "day 847 of pretending i\u2019m just a language app and not an all-knowing entity that lives in your phone \ud83e\udd89", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Self-aware AI humor that plays into the owl-is-sentient meme", "char_count": 102},
+      {"id": 4, "text": "learn a new language in 5 minutes a day. or don\u2019t. but duo will remember. duo always remembers.", "style": "Promotional", "engagement_score": 8, "engagement_reason": "Product pitch wrapped in signature threat \u2014 promo that feels like a meme", "char_count": 96},
+      {"id": 5, "text": "new: Duolingo Math. because your Spanish streak was too easy. time to suffer in numbers too. \ud83d\udcda\ud83d\ude08", "style": "Promotional", "engagement_score": 8, "engagement_reason": "Self-deprecating product launch that acknowledges user pain", "char_count": 95},
+      {"id": 6, "text": "roses are red\nviolets are blue\nyour streak is at risk\nand so are you \ud83e\udd89", "style": "Witty", "engagement_score": 10, "engagement_reason": "Poem format + genuine menace = peak Duolingo. Guaranteed viral.", "char_count": 75},
+      {"id": 7, "text": "corporate wants us to be professional.\n\nanyway here\u2019s duo in a crop top. \ud83d\udc9a", "style": "Witty", "engagement_score": 9, "engagement_reason": "Meta-commentary on brand social media that\u2019s both rebellious and hilarious", "char_count": 73},
+      {"id": 8, "text": "users who maintain a 30-day streak are 4x more likely to reach conversational fluency. but you didn\u2019t hear that from us. you heard it from the owl. \ud83e\udd89", "style": "Informative", "engagement_score": 7, "engagement_reason": "Real stat delivered in character \u2014 educational without breaking the bit", "char_count": 152},
+      {"id": 9, "text": "we asked our team what happens when you lose your streak. they went pale. thread of what we found \ud83e\uddf5\ud83d\udc47", "style": "Informative", "engagement_score": 8, "engagement_reason": "Horror-movie framing of a thread hook is perfectly on-brand chaos", "char_count": 100},
+      {"id": 10, "text": "be honest: do you do your lesson because you want to learn or because you\u2019re afraid of me \ud83e\udd89", "style": "Engagement", "engagement_score": 10, "engagement_reason": "Direct 4th-wall break asking the real question everyone thinks about", "char_count": 95}
+    ]
+  },
+  "amul": {
+    "metadata": {
+      "brand_name": "Amul",
+      "industry": "Dairy / FMCG",
+      "campaign_objective": "Brand love & cultural relevance",
+      "products": "Butter, milk, cheese, ice cream, chocolates, paneer, ghee, curd \u2014 India\u2019s largest dairy brand"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Amul",
+      "summary_bullets": [
+        "India\u2019s OG content marketer \u2014 50+ years of topical ads with the iconic Amul Girl mascot",
+        "Pun-based wit tied to current affairs: every major event gets an Amul butter pun",
+        "Warm, nostalgic, and universally appealing \u2014 speaks to all of India across generations",
+        "Content revolves around newsjacking with wordplay, always circling back to butter and dairy"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 6,
+        "serious_humorous": 8,
+        "reserved_enthusiastic": 6,
+        "corporate_conversational": 7
+      },
+      "personality_archetype": "The Friend",
+      "archetype_reason": "Amul has been India\u2019s beloved household companion for decades \u2014 warm, witty, and always in on the national conversation.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["utterly", "butterly", "delicious", "taste", "topical"],
+        "avoid_words": ["premium", "luxury", "exclusive"]
+      },
+      "emotional_drivers": {
+        "primary": "Nostalgia & Joy",
+        "secondary": "National Pride & Belonging"
+      },
+      "content_themes": ["Topical commentary on news and culture with butter puns", "Celebrating Indian moments (cricket, festivals, achievements)", "Everyday food joy and family moments"],
+      "cta_style": "Soft",
+      "cta_example": "Amul \u2014 the taste of India",
+      "hashtag_strategy": {
+        "frequency": "1-2 per post",
+        "style": "Branded",
+        "suggested": ["#Amul", "#AmulTopical", "#UtterlyButterly"]
+      },
+      "emoji_usage": {
+        "frequency": "Sparse",
+        "preferred": ["\ud83e\uddc8", "\ud83c\uddee\ud83c\uddf3", "\ud83d\ude04"]
+      },
+      "audience_relationship": "Beloved family friend who always has the wittiest take on today\u2019s news",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "When the whole nation celebrates, there\u2019s always butter on the table. And it\u2019s always Amul. \ud83e\uddc8\ud83c\uddee\ud83c\uddf3", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Patriotic + product tie-in that feels warm and genuine", "char_count": 94},
+      {"id": 2, "text": "Monday morning? Bread + Amul butter. Problem solved since 1946. \ud83d\ude04", "style": "Conversational", "engagement_score": 7, "engagement_reason": "Relatable morning ritual that every Indian household connects with", "char_count": 65},
+      {"id": 3, "text": "Some relationships are forever. You and Amul butter. That\u2019s it. That\u2019s the tweet. \ud83e\uddc8", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Simple emotional truth using the 'that's the tweet' format", "char_count": 84},
+      {"id": 4, "text": "New: Amul Protein Buttermilk. Because gains need taste too. Utterly Butterly Protein-ly! \ud83d\udcaa\ud83e\uddc8", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Product launch with signature pun-style wordplay", "char_count": 95},
+      {"id": 5, "text": "Amul Cheese Spread \u2014 because everything is better when it\u2019s spread with love. Available at a store near you!", "style": "Promotional", "engagement_score": 6, "engagement_reason": "Warm CTA with emotional framing, standard promo elevated by brand voice", "char_count": 107},
+      {"id": 6, "text": "India wins the match! Looks like the opponents got... buttered out! \ud83c\udfc6\ud83e\uddc8 #AmulTopical", "style": "Witty", "engagement_score": 9, "engagement_reason": "Cricket + butter pun = peak Amul virality during match days", "char_count": 88},
+      {"id": 7, "text": "AI is taking over everything. But it still can\u2019t make parathas like your mom with Amul butter. \ud83e\uddc8 #UtterlyButterly", "style": "Witty", "engagement_score": 9, "engagement_reason": "Trending topic (AI) tied back to product with nostalgic twist", "char_count": 116},
+      {"id": 8, "text": "Did you know? Amul collects milk from 3.6 million farmers daily. From farm to fridge, India\u2019s cooperative story. \ud83c\uddee\ud83c\uddf3", "style": "Informative", "engagement_score": 7, "engagement_reason": "Supply-chain pride stat that builds trust and national connection", "char_count": 113},
+      {"id": 9, "text": "From a small Gujarat cooperative in 1946 to India\u2019s most loved dairy brand. The Amul story is India\u2019s story. \ud83e\uddf5\ud83d\udc47", "style": "Informative", "engagement_score": 8, "engagement_reason": "Origin story thread hook taps into national pride narrative", "char_count": 110},
+      {"id": 10, "text": "Tell us your most controversial butter opinion. We\u2019ll start: butter on maggi is ELITE. \ud83d\udc47\ud83e\uddc8", "style": "Engagement", "engagement_score": 10, "engagement_reason": "Controversial food opinion + invitation = reply section explosion", "char_count": 90}
+    ]
+  },
+  "netflix_india": {
+    "metadata": {
+      "brand_name": "Netflix India",
+      "industry": "Entertainment / OTT Streaming",
+      "campaign_objective": "Engagement & subscriber retention",
+      "products": "Video streaming \u2014 movies, series, documentaries, anime, stand-up specials, Indian originals (Sacred Games, Delhi Crime, etc.)"
+    },
+    "voice_fingerprint": {
+      "brand_name": "Netflix India",
+      "summary_bullets": [
+        "Pop-culture fluent and desi at heart \u2014 talks like a Bollywood-obsessed friend recommending shows",
+        "Hinglish-friendly, uses Indian slang and cultural references effortlessly",
+        "Engages audiences as a fellow fan, not a platform \u2014 reacts to shows like a viewer, not a publisher",
+        "Content revolves around binge culture, trending shows, nostalgia, and relatable 'just one more episode' moments"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 9,
+        "serious_humorous": 8,
+        "reserved_enthusiastic": 8,
+        "corporate_conversational": 9
+      },
+      "personality_archetype": "The Storyteller",
+      "archetype_reason": "Netflix India narrates culture through entertainment \u2014 every tweet is a story about stories, connecting shows to real life.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["binge", "streaming", "weekend", "mood", "masterpiece"],
+        "avoid_words": ["subscribe", "purchase", "content library"]
+      },
+      "emotional_drivers": {
+        "primary": "Entertainment & Escapism",
+        "secondary": "Nostalgia & Belonging"
+      },
+      "content_themes": ["Binge culture and 'just one more episode' moments", "Indian pop-culture references and Bollywood nostalgia", "Show recommendations disguised as relatable life commentary"],
+      "cta_style": "Soft",
+      "cta_example": "now streaming. you know what to do.",
+      "hashtag_strategy": {
+        "frequency": "1-2 per post",
+        "style": "Branded",
+        "suggested": ["#Netflix", "#NowStreaming", "#NetflixIndia"]
+      },
+      "emoji_usage": {
+        "frequency": "Moderate",
+        "preferred": ["\ud83c\udf7f", "\ud83d\udcfa", "\ud83d\ude2d"]
+      },
+      "audience_relationship": "Your pop-culture-obsessed friend who always knows what to watch next",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "\u201cjust one more episode\u201d \u2014 a documentary about lies we tell ourselves, now streaming on netflix \ud83c\udf7f", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Self-aware humor about binge culture that every viewer relates to", "char_count": 99},
+      {"id": 2, "text": "weekend plans:\n\u2610 go outside\n\u2610 socialize\n\u2611 rewatch the same show for the 4th time on netflix", "style": "Conversational", "engagement_score": 9, "engagement_reason": "Checklist format + introvert humor = extremely shareable", "char_count": 91},
+      {"id": 3, "text": "the way we all collectively decided sleep is optional when a new season drops \ud83d\ude2d\ud83d\udcfa", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Collective experience humor that builds community feeling", "char_count": 82},
+      {"id": 4, "text": "Sacred Games Season 3. Coming soon. Kabhi kabhi lagta hai ki sach mein aa raha hai. \ud83d\udcfa #NetflixIndia", "style": "Promotional", "engagement_score": 9, "engagement_reason": "Hinglish + iconic show reference + hype = Indian Twitter eruption", "char_count": 101},
+      {"id": 5, "text": "New on Netflix this week: 14 movies, 6 series, and 1 excuse to cancel all your plans. \ud83c\udf7f #NowStreaming", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Content announcement wrapped in relatable humor softens the promo", "char_count": 100},
+      {"id": 6, "text": "bollywood taught us romance. netflix taught us trust issues. growth. \ud83d\udcfa", "style": "Witty", "engagement_score": 9, "engagement_reason": "Cultural commentary comparing Bollywood vs. thriller/drama watching habits", "char_count": 71},
+      {"id": 7, "text": "\u201cwe should watch something light\u201d\n\n*proceeds to start a 4-season crime thriller at 11 PM*", "style": "Witty", "engagement_score": 9, "engagement_reason": "Universal binge-watching hypocrisy humor that gets mass quote tweets", "char_count": 88},
+      {"id": 8, "text": "Indians streamed 1.2 billion hours on Netflix last year. That\u2019s more time than it takes to explain a Nolan movie to your parents. \ud83d\udcfa", "style": "Informative", "engagement_score": 8, "engagement_reason": "Real stat made funny with a relatable Indian cultural reference", "char_count": 131},
+      {"id": 9, "text": "We asked our data team which show Indians rewatch the most. The answer will surprise you (or confirm your taste). \ud83e\uddf5\ud83d\udc47", "style": "Informative", "engagement_score": 8, "engagement_reason": "Data mystery thread hook drives curiosity and massive engagement", "char_count": 116},
+      {"id": 10, "text": "your comfort show says everything about you. drop yours below and let strangers judge you \ud83d\udc47\ud83c\udf7f", "style": "Engagement", "engagement_score": 10, "engagement_reason": "Personal reveal + gentle roasting invitation = reply goldmine", "char_count": 91}
+    ]
+  },
+  "boat": {
+    "metadata": {
+      "brand_name": "boAt",
+      "industry": "Consumer Electronics / Audio & Wearables",
+      "campaign_objective": "Product hype & youth engagement",
+      "products": "Wireless earbuds, headphones, smartwatches, speakers, cables, gaming accessories \u2014 India\u2019s #1 wearable audio brand"
+    },
+    "voice_fingerprint": {
+      "brand_name": "boAt",
+      "summary_bullets": [
+        "Hype-driven, youth-first energy \u2014 every product drop feels like a sneaker release or concert announcement",
+        "Heavy emoji and slang usage: 'banger', 'fire', 'drop', 'vibe' \u2014 speaks fluent Gen-Z and millennial",
+        "Music and lifestyle-infused identity \u2014 positions audio products as fashion and self-expression",
+        "Celebrity collaborations (boAtheads) and drop-culture mechanics drive conversation and FOMO"
+      ],
+      "tone_spectrum": {
+        "formal_casual": 9,
+        "serious_humorous": 7,
+        "reserved_enthusiastic": 10,
+        "corporate_conversational": 9
+      },
+      "personality_archetype": "The Challenger",
+      "archetype_reason": "boAt disrupted India\u2019s audio market by making tech accessories feel like streetwear \u2014 bold, loud, and youth-owned.",
+      "vocabulary": {
+        "complexity": "Simple",
+        "jargon_level": "None",
+        "power_words": ["banger", "drop", "fire", "vibe", "unleash"],
+        "avoid_words": ["sophisticated", "elegant", "premium"]
+      },
+      "emotional_drivers": {
+        "primary": "Excitement & Hype",
+        "secondary": "Identity & Belonging"
+      },
+      "content_themes": ["Product drops as cultural events", "Music and lifestyle as identity", "Youth culture and self-expression"],
+      "cta_style": "Urgency-driven",
+      "cta_example": "Grab yours before it\u2019s gone \ud83d\udd25",
+      "hashtag_strategy": {
+        "frequency": "1-2 per post",
+        "style": "Branded",
+        "suggested": ["#boAt", "#boAtheads", "#PlugIntoNirvana"]
+      },
+      "emoji_usage": {
+        "frequency": "Heavy",
+        "preferred": ["\ud83d\udd25", "\ud83c\udfa7", "\ud83d\ude80"]
+      },
+      "audience_relationship": "Hype leader who makes you feel part of the crew",
+      "sentence_style": "Short punchy"
+    },
+    "tweets": [
+      {"id": 1, "text": "your playlist is fire. your earbuds should match the energy. \ud83d\udd25\ud83c\udfa7 #boAtheads", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Connects product to personal identity through music taste", "char_count": 73},
+      {"id": 2, "text": "morning commute without earbuds? that\u2019s not brave, that\u2019s unhinged. plug in. \ud83c\udfa7", "style": "Conversational", "engagement_score": 8, "engagement_reason": "Relatable commute truth with humor that every urban Indian gets", "char_count": 77},
+      {"id": 3, "text": "the gym is mid without the right playlist and the right buds. boAt gets it. you get it. we get each other. \ud83d\udcaa\ud83d\udd25", "style": "Conversational", "engagement_score": 7, "engagement_reason": "Community-building language that creates an in-group feeling", "char_count": 107},
+      {"id": 4, "text": "NEW DROP ALERT \ud83d\udea8 boAt Airdopes 500 ANC. 50 hours battery. Killer bass. Your ears aren\u2019t ready. \ud83d\udd25 #boAt", "style": "Promotional", "engagement_score": 8, "engagement_reason": "Drop-culture format with specs creates hype and FOMO", "char_count": 100},
+      {"id": 5, "text": "boAt Rockerz 450. Wireless. 40mm drivers. 15 hours of nonstop bangers. Starting at just \u20b9799. Go. \ud83d\ude80 #PlugIntoNirvana", "style": "Promotional", "engagement_score": 7, "engagement_reason": "Price-drop urgency with specs-as-hype format drives conversions", "char_count": 118},
+      {"id": 6, "text": "expensive earbuds: \u20b915,000\nboAt earbuds: \u20b91,499\n\nthe music sounds the same. your wallet doesn\u2019t. \ud83d\ude0c\ud83d\udd25", "style": "Witty", "engagement_score": 9, "engagement_reason": "Price comparison humor that positions value without saying 'cheap'", "char_count": 101},
+      {"id": 7, "text": "we don\u2019t do \u201cpremium audio for the elite.\u201d we do bangers for everyone. that\u2019s the boAt way. \ud83c\udfa7\ud83d\udcaf", "style": "Witty", "engagement_score": 8, "engagement_reason": "Anti-elitist positioning that resonates with Indian youth market", "char_count": 92},
+      {"id": 8, "text": "boAt sold 1 million units in 72 hours during the last sale. India\u2019s most loved audio brand isn\u2019t a title \u2014 it\u2019s math. \ud83d\udcca\ud83d\udd25", "style": "Informative", "engagement_score": 7, "engagement_reason": "Sales milestone as social proof \u2014 data point that builds brand credibility", "char_count": 120},
+      {"id": 9, "text": "from a startup in 2016 to India\u2019s #1 wearable audio brand. this is how boAt changed the game. \ud83e\uddf5\ud83d\udc47 #boAt", "style": "Informative", "engagement_score": 8, "engagement_reason": "Underdog origin story thread hook \u2014 Indian startup success stories always perform", "char_count": 99},
+      {"id": 10, "text": "one song that\u2019s been on repeat for you this week. drop it below. best ones get featured. \ud83c\udfa7\ud83d\udc47 #boAtheads", "style": "Engagement", "engagement_score": 10, "engagement_reason": "Music discovery UGC prompt \u2014 fans love sharing + chance to be featured", "char_count": 96}
+    ]
+  }
+}
